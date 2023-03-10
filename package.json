@@ -1,0 +1,24 @@
+{
+  "name": "responsiveness-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haditbfbs22/responsiveness-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haditbfbs22/responsiveness-app/issues"
+  },
+  "homepage": "https://github.com/haditbfbs22/responsiveness-app#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "port": 8000
+}
